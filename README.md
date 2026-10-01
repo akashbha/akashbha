@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Akash Bhagoji
 
-<!--
-**akashbha/akashbha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | AI & Generative AI Enthusiast
 
-Here are some ideas to get you started:
+🎓 MCA @ R V College of Engineering  
+💻 Building software applications and AI-powered systems  
+🤖 Interested in Generative AI, RAG & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+Python • Java • C++ • JavaScript • SQL
+
+**Frontend**
+
+React • TypeScript • HTML • CSS
+
+**Backend**
+
+Node.js • Express.js • FastAPI • REST APIs
+
+**Databases**
+
+MySQL • PostgreSQL • MongoDB
+
+**Tools & Cloud**
+
+Git • GitHub • Docker • AWS • Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 IndusMind AI
+AI-powered industrial intelligence platform with document processing, RAG, knowledge graphs and asset intelligence.
+
+### 💰 RazorRecover AI
+AI-driven revenue recovery platform for intelligent payment failure analysis and recovery.
+
+### 🏠 SmartPG
+MERN-based PG discovery and management platform with AI recommendations.
+
+### 📊 Training Analytics Portal
+Training performance analytics platform for tracking trainee scores, errors and progress.
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) •
+[GitHub](https://github.com/akashbha) •
+[Email](mailto:YOUR_EMAIL)
