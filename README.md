@@ -41,12 +41,3 @@
 </p>
 
 
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akashbha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbha&layout=compact&hide_border=true" height="180"/>
-
-</div>
