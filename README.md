@@ -8,15 +8,6 @@ Building intelligent software systems with **AI, backend engineering, and modern
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Generative+AI+%26+LLMs;Developing+Scalable+Backend+Systems;Turning+Ideas+into+Production-ready+Software" />
 
-<p>
-  <a href="https://github.com/akashbha">
-    <img src="https://img.shields.io/github/followers/akashbha?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/akashbha">
-    <img src="https://img.shields.io/github/stars/akashbha?label=Stars&style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 </div>
 
 ---
